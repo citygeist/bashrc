@@ -1,0 +1,13 @@
+#Include 
+
+source /yourfolder/bashrc
+
+#file for current user in 
+
+~/.bashrc
+
+#restart bashrc / bash
+. ~/bashrc
+
+#use alias now
+..
