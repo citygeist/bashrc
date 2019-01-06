@@ -1,0 +1,14 @@
+#GIT
+
+alias gg='git'
+alias ggi='git init'
+alias ggs='git status'
+alias ggc='git config --list'
+alias ggv='git --version'
+alias ggg='nn ~/.gitconfig'
+alias ggb='git branch'
+alias ggl='git log'
+alias ggls='git log --stat'
+alias ggco='git checkout'
+alias gglb='git log --oneline --decorate'
+alias ggcm='git commit -m'

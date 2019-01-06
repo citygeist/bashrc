@@ -1,0 +1,8 @@
+#BASHRC
+
+#restart current user bash
+alias ..='. ~/.bashrc'
+
+#edit current user bash
+alias nsh='nano ~/.bashrc'
+
