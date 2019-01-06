@@ -3,16 +3,16 @@
 ########
 
 #system
-source /home/geist/bashrc/bashrcsys
+source /bashrc/bashrcsys
 
 #command
-source /home/geist/bashrc/cmd
+source /bashrc/cmd
 
 #docker
-source /home/geist/bashrc/docker
+source /bashrc/docker
 
 #git
-source /home/geist/bashrc/git
+source /bashrc/git
 
 #nano
-source /home/geist/bashrc/nano
+source /bashrc/nano
