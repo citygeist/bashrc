@@ -7,7 +7,7 @@ source /yourfolder/bashrc
 ~/.bashrc
 
 #restart bashrc / bash
-. ~/bashrc
+. ~/.bashrc
 
 #use alias now
 ..
