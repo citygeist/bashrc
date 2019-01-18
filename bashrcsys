@@ -6,3 +6,7 @@ alias ..='. ~/.bashrc'
 #edit current user bash
 alias nsh='nano ~/.bashrc'
 
+
+#core cmd
+ur=$(uname -r)
+alias ur='uname -r'

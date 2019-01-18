@@ -16,3 +16,9 @@ source /bashrc/git
 
 #nano
 source /bashrc/nano
+
+#ip
+source /bashrc/ip
+
+#apt
+source /bashrc/apt

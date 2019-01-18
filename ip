@@ -1,0 +1,3 @@
+ipi=$(hostname -I | grep -Eo '([0-9]*\.){3}[0-9]*')
+
+alias ipi="hostname -I | grep -Eo '([0-9]*\.){3}[0-9]*'"
