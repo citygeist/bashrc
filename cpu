@@ -1,0 +1,10 @@
+#dmidecode
+#nproc
+#cat /proc/cpuinfo | grep processor | wc -l
+#cat /proc/cpuinfo | grep 'core id'
+#
+#
+alias cpui='cat /proc/cpuinfo'
+
+cpux=$(cat /proc/cpuinfo | grep processor | wc -l)
+alias cpux='cat /proc/cpuinfo | grep processor | wc -l'

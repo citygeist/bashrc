@@ -10,3 +10,6 @@ alias nsh='nano ~/.bashrc'
 #core cmd
 ur=$(uname -r)
 alias ur='uname -r'
+
+ux=$(uname -m)
+alias ux='uname -m'

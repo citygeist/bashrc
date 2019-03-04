@@ -1,3 +1,5 @@
 alias app='apt-get update'
 alias apu='apt-get upgrade'
 alias apx='nano /etc/apt/sources.list'
+alias apk='apt-cache search linux-image'
+alias aph='apt-cache search linux-header'

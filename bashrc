@@ -3,22 +3,50 @@
 ########
 
 #system
-source /bashrc/bashrcsys
+source $b0/bashrcsys
 
 #command
-source /bashrc/cmd
+source $b0/cmd
 
 #docker
-source /bashrc/docker
+source $b0/docker
 
 #git
-source /bashrc/git
+source $b0/git
 
 #nano
-source /bashrc/nano
+source $b0/nano
 
 #ip
-source /bashrc/ip
+source $b0/ip
+
+#ping
+source $b0/ping
 
 #apt
-source /bashrc/apt
+source $b0/apt
+
+#cpu
+source $b0/cpu
+
+#ssh
+source $b0/ssh
+
+##############
+#private z0om#
+##############
+
+#ssh
+source $b1/ssh
+
+#kernel hacking
+source $b1/linux
+
+#ssh chat
+source $b1/sshchat
+
+#hash SHA-2
+source $b1/sha2
+
+#hash SHA-3/FIPS PUB 202
+source $b1/sha3
